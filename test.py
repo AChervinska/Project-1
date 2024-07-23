@@ -15,4 +15,4 @@ img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 # Creates the environment of the picture and shows it
 plt.subplot(1, 1, 1)
 plt.imshow(img_rgb)
-plt.show()
+# plt.show()
